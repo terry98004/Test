@@ -26,7 +26,7 @@ This distribution consists of the following files:
   
   * [license.txt][license-link] A text file containing the MIT License.
 	
-  * [Hardyz.c][hardyz-c-link]. The 'main' function entry pont for our program.  This source code file is 
+  * [Hardyz.c][hardyz-c-link]. The `main` function entry pont for our program.  This source code file is 
   quite straightforward. We validate the user’s command line input, save their
   choices and then call the `ComputeHardyZ` function.
  
