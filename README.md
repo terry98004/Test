@@ -63,7 +63,7 @@ We also used the [**msys2**][msys2-link] software distribution and building plat
 See their respective links for theirs terms of license.  
 
 [website-link]:			https://riemann1859.com
-[license-link]:			https://github.com/terry98004/HardyZ/blob/master/license.txt
+[license-link]:			https://github.com/terry98004/test/blob/master/license.txt
 [readme-link]:			https://github.com/terry98004/test/blob/master/README.md
 [hardyz-c-link]:		https://github.com/terry98004/HardyZ/blob/master/README.md
 [remainder128-c-link]:	https://github.com/terry98004/HardyZ/blob/master/README.md
